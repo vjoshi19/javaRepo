@@ -1,4 +1,4 @@
-package homework;
+package javaRepo.javaRepo;
 
 public class insertion_sort {
 

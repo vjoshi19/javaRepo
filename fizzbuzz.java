@@ -1,4 +1,4 @@
-package javaRepos;
+package javaRepo.javaRepo;
 
 public class fizzbuzz {
 

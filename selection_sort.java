@@ -1,4 +1,4 @@
-package homework;
+package javaRepo.javaRepo;
 
 public class selection_sort {
 

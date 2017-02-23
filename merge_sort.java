@@ -1,4 +1,4 @@
-package homework;
+package javaRepo.javaRepo;
 
 public class merge_sort {
 	public static final int MAXINT = 2147483647;
